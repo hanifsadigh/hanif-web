@@ -1,0 +1,135 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="roberto.com" resolutions="1x" timestamp="1491779505658">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3758186059" ref="index"/>
+    <file name="nomq_index.css" crc="3796990058" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u325.php" crc="271006621" ref="index"/>
+    <file name="form-u1106.php" crc="254385406" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="popupshop_logo7.png" crc="241888287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u215_states.png" crc="3886011616" ref="index"/>
+    <file name="u215_states-r.png" crc="433284824" ref="index"/>
+    <file name="u231_states.png" crc="312975463" ref="index"/>
+    <file name="u231_states-r.png" crc="4179530772" ref="index"/>
+    <file name="u222_states.png" crc="515048502" ref="index"/>
+    <file name="u222_states-r.png" crc="3784585376" ref="index"/>
+    <file name="u228_states.png" crc="353028628" ref="index"/>
+    <file name="u228_states-r.png" crc="4132413149" ref="index"/>
+    <file name="u225_states.png" crc="187584016" ref="index"/>
+    <file name="u225_states-r.png" crc="4283401226" ref="index"/>
+    <file name="8439610_orig.jpg" crc="441932491" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u234-4.png" crc="4144202423" ref="index"/>
+    <file name="pasted-svg-225165x137.svg" crc="3845872238" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 225165x137_poster_.png" crc="4212772909" ref="index"/>
+    <file name="u1092-4.png" crc="59025184" ref="index"/>
+    <file name="u1068-9.png" crc="87251228" ref="index"/>
+    <file name="u257-4.png" crc="4059425078" ref="index"/>
+    <file name="u266-4.png" crc="3775131928" ref="index"/>
+    <file name="ec0e3b3b696edbb46e98786ea1bd69cd.jpg" crc="218692544" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u709-4.png" crc="4156607179" ref="index"/>
+    <file name="u269-4.png" crc="3881696749" ref="index"/>
+    <file name="u339.png" crc="292015155" ref="index"/>
+    <file name="u339-ferr.png" crc="345995735" ref="index"/>
+    <file name="u333.png" crc="3971163235" ref="index"/>
+    <file name="u333-ferr.png" crc="95371316" ref="index"/>
+    <file name="u335.png" crc="4093109698" ref="index"/>
+    <file name="u335-ferr.png" crc="509346695" ref="index"/>
+    <file name="u377.png" crc="237364338" ref="index"/>
+    <file name="u377-ferr.png" crc="3798607734" ref="index"/>
+    <file name="u447.png" crc="3865912162" ref="index"/>
+    <file name="u447-ferr.png" crc="253274358" ref="index"/>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1258-4.png" crc="428938985" ref="index"/>
+    <file name="u701_states.png" crc="363145944" ref="index"/>
+    <file name="u701_states-r.png" crc="3969783158" ref="index"/>
+    <file name="2d91728b23e9a1ce3d99cda56ee031e0.jpg" crc="4075340746" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="010_x-512.png" crc="4174802576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu-alt-512.png" crc="511691930" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u266-42.png" crc="475043997" ref="index"/>
+    <file name="u709-42.png" crc="345853657" ref="index"/>
+    <file name="u269-42.png" crc="110917872" ref="index"/>
+    <file name="u234-42.png" crc="123838545" ref="index"/>
+    <file name="u257-42.png" crc="209886851" ref="index"/>
+    <file name="u3392.png" crc="3345075" ref="index"/>
+    <file name="u339-ferr2.png" crc="243353725" ref="index"/>
+    <file name="u3332.png" crc="3780480242" ref="index"/>
+    <file name="u333-ferr2.png" crc="299301297" ref="index"/>
+    <file name="u3352.png" crc="422715148" ref="index"/>
+    <file name="u335-ferr2.png" crc="3950304709" ref="index"/>
+    <file name="u3772.png" crc="319671814" ref="index"/>
+    <file name="u377-ferr2.png" crc="439879548" ref="index"/>
+    <file name="u4472.png" crc="4176179605" ref="index"/>
+    <file name="u447-ferr2.png" crc="4089465029" ref="index"/>
+    <file name="u1092-42.png" crc="3863359845" ref="index"/>
+    <file name="u1068-92.png" crc="192650131" ref="index"/>
+    <file name="menu-alt-512-u1504-3-fr.png" crc="170159686" ref="index"/>
+    <file name="010_x-512-u1504-3-a-fr.png" crc="4158342828" ref="index"/>
+    <file name="u1642_states.png" crc="4104507598" ref="index"/>
+    <file name="u1642_states-r.png" crc="442976770" ref="index"/>
+    <file name="u1643_states.png" crc="3798230802" ref="index"/>
+    <file name="u1643_states-r.png" crc="304520772" ref="index"/>
+    <file name="u1644_states.png" crc="4083655722" ref="index"/>
+    <file name="u1644_states-r.png" crc="95251740" ref="index"/>
+    <file name="u1646_states.png" crc="402409292" ref="index"/>
+    <file name="u1646_states-r.png" crc="65974878" ref="index"/>
+    <file name="u1645_states.png" crc="3826230575" ref="index"/>
+    <file name="u1645_states-r.png" crc="292337821" ref="index"/>
+    <file name="u1258-42.png" crc="4058534188" ref="index"/>
+    <file name="u701_states2.png" crc="4154865573" ref="index"/>
+    <file name="u701_states-r2.png" crc="516356402" ref="index"/>
+  </folder>
+  <file name="index.html" crc="347652286" seo="true" mt="1491779405177" redirect="true"/>
+</manifest>
