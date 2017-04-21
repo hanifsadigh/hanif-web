@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="roberto.com" resolutions="1x" timestamp="1491779505658">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://hanifsadigh.github.io/Roberto" resolutions="1x" timestamp="1492734156822">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3758186059" ref="index"/>
-    <file name="nomq_index.css" crc="3796990058" ref="index"/>
+    <file name="index.css" crc="56375510" ref="index"/>
+    <file name="nomq_index.css" crc="3987223730" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -15,57 +15,26 @@
     <file name="form_check.php" crc="3841221102" ref="index"/>
     <file name="form_throttle.php" crc="4048049783" ref="index"/>
     <file name="form_process.php" crc="3899230280" ref="index"/>
-    <file name="form-u325.php" crc="271006621" ref="index"/>
-    <file name="form-u1106.php" crc="254385406" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index"/>
     <file name="musewpdisclosure.js" crc="347705465" ref="index"/>
     <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="form-u221.php" crc="421482648" ref="index"/>
+    <file name="form-u549.php" crc="4020102007" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="popupshop_logo7.png" crc="241888287" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u215_states.png" crc="3886011616" ref="index"/>
-    <file name="u215_states-r.png" crc="433284824" ref="index"/>
-    <file name="u231_states.png" crc="312975463" ref="index"/>
-    <file name="u231_states-r.png" crc="4179530772" ref="index"/>
-    <file name="u222_states.png" crc="515048502" ref="index"/>
-    <file name="u222_states-r.png" crc="3784585376" ref="index"/>
-    <file name="u228_states.png" crc="353028628" ref="index"/>
-    <file name="u228_states-r.png" crc="4132413149" ref="index"/>
-    <file name="u225_states.png" crc="187584016" ref="index"/>
-    <file name="u225_states-r.png" crc="4283401226" ref="index"/>
     <file name="8439610_orig.jpg" crc="441932491" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u234-4.png" crc="4144202423" ref="index"/>
-    <file name="pasted-svg-225165x137.svg" crc="3845872238" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="2d91728b23e9a1ce3d99cda56ee031e0.jpg" crc="4075340746" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 225165x137_poster_.png" crc="4212772909" ref="index"/>
-    <file name="u1092-4.png" crc="59025184" ref="index"/>
-    <file name="u1068-9.png" crc="87251228" ref="index"/>
-    <file name="u257-4.png" crc="4059425078" ref="index"/>
-    <file name="u266-4.png" crc="3775131928" ref="index"/>
-    <file name="ec0e3b3b696edbb46e98786ea1bd69cd.jpg" crc="218692544" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="ec0e3b3b696edbb46e98786ea1bd69cd.jpg" crc="218692544" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u709-4.png" crc="4156607179" ref="index"/>
-    <file name="u269-4.png" crc="3881696749" ref="index"/>
-    <file name="u339.png" crc="292015155" ref="index"/>
-    <file name="u339-ferr.png" crc="345995735" ref="index"/>
-    <file name="u333.png" crc="3971163235" ref="index"/>
-    <file name="u333-ferr.png" crc="95371316" ref="index"/>
-    <file name="u335.png" crc="4093109698" ref="index"/>
-    <file name="u335-ferr.png" crc="509346695" ref="index"/>
-    <file name="u377.png" crc="237364338" ref="index"/>
-    <file name="u377-ferr.png" crc="3798607734" ref="index"/>
-    <file name="u447.png" crc="3865912162" ref="index"/>
-    <file name="u447-ferr.png" crc="253274358" ref="index"/>
+    <file name="pasted svg 225165x137_poster_.png" crc="3815633647" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="checkboxunchecked.jpg" crc="495023700" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -84,52 +53,51 @@
     <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1258-4.png" crc="428938985" ref="index"/>
-    <file name="u701_states.png" crc="363145944" ref="index"/>
-    <file name="u701_states-r.png" crc="3969783158" ref="index"/>
-    <file name="2d91728b23e9a1ce3d99cda56ee031e0.jpg" crc="4075340746" ref="index">
+    <file name="popupshop_logo9-u524-fr.png" crc="434369460" ref="index"/>
+    <file name="u805_states.png" crc="4022901046" ref="index"/>
+    <file name="u805_states-r.png" crc="433284824" ref="index"/>
+    <file name="u130_states.png" crc="503818022" ref="index"/>
+    <file name="u130_states-r.png" crc="4179530772" ref="index"/>
+    <file name="u131_states.png" crc="3820031986" ref="index"/>
+    <file name="u131_states-r.png" crc="3812087220" ref="index"/>
+    <file name="u133_states.png" crc="3802860707" ref="index"/>
+    <file name="u133_states-r.png" crc="3852339752" ref="index"/>
+    <file name="u132_states.png" crc="342816622" ref="index"/>
+    <file name="u132_states-r.png" crc="3770009385" ref="index"/>
+    <file name="u186-4.png" crc="414713769" ref="index"/>
+    <file name="u190-4.png" crc="4146109630" ref="index"/>
+    <file name="u193-9.png" crc="3966759103" ref="index"/>
+    <file name="u274-4.png" crc="4162228216" ref="index"/>
+    <file name="u507-4.png" crc="4176947499" ref="index"/>
+    <file name="u543-4.png" crc="4154189072" ref="index"/>
+    <file name="u600-4.png" crc="4185483844" ref="index"/>
+    <file name="hamburger bars.png" crc="192151741" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="010_x-512.png" crc="4174802576" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="menu-alt-512.png" crc="511691930" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="x sign.png" crc="275677849" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u266-42.png" crc="475043997" ref="index"/>
-    <file name="u709-42.png" crc="345853657" ref="index"/>
-    <file name="u269-42.png" crc="110917872" ref="index"/>
-    <file name="u234-42.png" crc="123838545" ref="index"/>
-    <file name="u257-42.png" crc="209886851" ref="index"/>
-    <file name="u3392.png" crc="3345075" ref="index"/>
-    <file name="u339-ferr2.png" crc="243353725" ref="index"/>
-    <file name="u3332.png" crc="3780480242" ref="index"/>
-    <file name="u333-ferr2.png" crc="299301297" ref="index"/>
-    <file name="u3352.png" crc="422715148" ref="index"/>
-    <file name="u335-ferr2.png" crc="3950304709" ref="index"/>
-    <file name="u3772.png" crc="319671814" ref="index"/>
-    <file name="u377-ferr2.png" crc="439879548" ref="index"/>
-    <file name="u4472.png" crc="4176179605" ref="index"/>
-    <file name="u447-ferr2.png" crc="4089465029" ref="index"/>
-    <file name="u1092-42.png" crc="3863359845" ref="index"/>
-    <file name="u1068-92.png" crc="192650131" ref="index"/>
-    <file name="menu-alt-512-u1504-3-fr.png" crc="170159686" ref="index"/>
-    <file name="010_x-512-u1504-3-a-fr.png" crc="4158342828" ref="index"/>
-    <file name="u1642_states.png" crc="4104507598" ref="index"/>
-    <file name="u1642_states-r.png" crc="442976770" ref="index"/>
-    <file name="u1643_states.png" crc="3798230802" ref="index"/>
-    <file name="u1643_states-r.png" crc="304520772" ref="index"/>
-    <file name="u1644_states.png" crc="4083655722" ref="index"/>
-    <file name="u1644_states-r.png" crc="95251740" ref="index"/>
-    <file name="u1646_states.png" crc="402409292" ref="index"/>
-    <file name="u1646_states-r.png" crc="65974878" ref="index"/>
-    <file name="u1645_states.png" crc="3826230575" ref="index"/>
-    <file name="u1645_states-r.png" crc="292337821" ref="index"/>
-    <file name="u1258-42.png" crc="4058534188" ref="index"/>
-    <file name="u701_states2.png" crc="4154865573" ref="index"/>
-    <file name="u701_states-r2.png" crc="516356402" ref="index"/>
+    <file name="u1137_states.png" crc="4142913656" ref="index"/>
+    <file name="u1137_states-r.png" crc="3894155622" ref="index"/>
+    <file name="u1133_states.png" crc="381336820" ref="index"/>
+    <file name="u1133_states-r.png" crc="444466661" ref="index"/>
+    <file name="u1134_states.png" crc="210929910" ref="index"/>
+    <file name="u1134_states-r.png" crc="3808714411" ref="index"/>
+    <file name="u1136_states.png" crc="378135643" ref="index"/>
+    <file name="u1136_states-r.png" crc="70001675" ref="index"/>
+    <file name="u1135_states.png" crc="4028918502" ref="index"/>
+    <file name="u1135_states-r.png" crc="232244662" ref="index"/>
+    <file name="popupshop_logo9.png" crc="312642989" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u186-42.png" crc="353180380" ref="index"/>
+    <file name="pasted svg 225165x137_poster_-u175-fr.png" crc="79197158" ref="index"/>
+    <file name="u190-42.png" crc="3907321743" ref="index"/>
+    <file name="u193-92.png" crc="4060277724" ref="index"/>
+    <file name="u274-42.png" crc="4131406246" ref="index"/>
+    <file name="u507-42.png" crc="343500990" ref="index"/>
+    <file name="u543-42.png" crc="3967694792" ref="index"/>
+    <file name="u600-42.png" crc="15556659" ref="index"/>
   </folder>
-  <file name="index.html" crc="347652286" seo="true" mt="1491779405177" redirect="true"/>
+  <file name="index.html" crc="4203510364" seo="true" mt="1492733845197" redirect="true"/>
 </manifest>
